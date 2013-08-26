@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCIApplication", "TestCIApplication\TestCIApplication.csproj", "{6C817A05-7DA7-48CD-BA62-02BE97E9EDBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C817A05-7DA7-48CD-BA62-02BE97E9EDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C817A05-7DA7-48CD-BA62-02BE97E9EDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C817A05-7DA7-48CD-BA62-02BE97E9EDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C817A05-7DA7-48CD-BA62-02BE97E9EDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
